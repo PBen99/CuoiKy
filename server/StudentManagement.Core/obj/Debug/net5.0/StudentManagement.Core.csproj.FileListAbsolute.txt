@@ -1,0 +1,15 @@
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.deps.json
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.runtimeconfig.json
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.runtimeconfig.dev.json
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\ref\StudentManagement.Core.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.pdb
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.csprojAssemblyReference.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.AssemblyInfoInputs.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.AssemblyInfo.cs
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.csproj.CoreCompileInputs.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\ref\StudentManagement.Core.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.pdb
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.genruntimeconfig.cache

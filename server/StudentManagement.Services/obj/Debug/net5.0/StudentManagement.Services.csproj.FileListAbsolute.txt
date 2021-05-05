@@ -1,0 +1,15 @@
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.csprojAssemblyReference.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.AssemblyInfoInputs.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.AssemblyInfo.cs
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.csproj.CoreCompileInputs.cache
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\StudentManagement.Services.deps.json
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\StudentManagement.Services.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\ref\StudentManagement.Services.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\StudentManagement.Services.pdb
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\StudentManagement.Core.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\bin\Debug\net5.0\StudentManagement.Core.pdb
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.csproj.CopyComplete
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\ref\StudentManagement.Services.dll
+D:\CSharp\PrepareForExam\studentmanagement\server\StudentManagement.Services\obj\Debug\net5.0\StudentManagement.Services.pdb
